@@ -10,8 +10,8 @@ try {
 } catch (e) {
     ghostConfig = {
         production: {
-            apiUrl: process.env.GHOST_API_URL,
-            contentApiKey: process.env.GHOST_CONTENT_API_KEY,
+            apiUrl: http://localhost:2369,
+            contentApiKey: 2a5d095b23b439b0bbabfc73fb,
         },
     }
 } finally {
