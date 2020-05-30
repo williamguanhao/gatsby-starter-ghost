@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "http://localhost:2369",
     "contentApiKey": "2a5d095b23b439b0bbabfc73fb"
   },
   "production": {
